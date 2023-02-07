@@ -8,7 +8,7 @@ import java.io.OutputStreamWriter;
 
 public class Study extends Car{
 	public static void main (String[] args) {
-		
+		// 주석 테스트
 		//Sonata test = new Sonata();
 		Car car = new Minseok();
 		car.testFn();
